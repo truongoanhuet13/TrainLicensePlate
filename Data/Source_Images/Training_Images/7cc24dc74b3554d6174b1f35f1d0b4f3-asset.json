@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7cc24dc74b3554d6174b1f35f1d0b4f3",
+        "name": "0110_04515_b.jpg",
+        "path": "file:C:/Users/truon/OneDrive/Desktop/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/0110_04515_b.jpg",
+        "size": {
+            "width": 472,
+            "height": 303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "G6eKKnNEY",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_Plates"
+            ],
+            "boundingBox": {
+                "height": 83.62012987012987,
+                "width": 91.51355107713691,
+                "left": 157.50416956219598,
+                "top": 111.4935064935065
+            },
+            "points": [
+                {
+                    "x": 157.50416956219598,
+                    "y": 111.4935064935065
+                },
+                {
+                    "x": 249.01772063933288,
+                    "y": 111.4935064935065
+                },
+                {
+                    "x": 249.01772063933288,
+                    "y": 195.11363636363637
+                },
+                {
+                    "x": 157.50416956219598,
+                    "y": 195.11363636363637
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
