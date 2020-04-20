@@ -1,0 +1,1005 @@
+{
+    "name": "Annotation",
+    "securityToken": "Annotation Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWQyOGRkODczZDkwMTU1ZTYwZDk4YWNmOTUxMDAwNTlhMjVmN2FkMmVlM2ZiMWRjMDc4ZDBlYWRjNzdmZWU3NDAyZDcyOWUwMzZmNDY2Y2YzNzFjNTI0NmFkOWY1ODVmMGM2ZDY1ZWVjNzNlNzUwYzM2ZWI2YzY2NzRmOTk4MzQwOGM0YmExN2ZjNWJjNGQwNmY3ZDQyZjk3ZGZjZTA2ODczM2EyMTI1NDg4MjY3NDMxMWIyMmFhYzg0NTU2MTQyOTNhZTAyYjhkNjBkOWNmNjY0MjY3MzUzMGNhNjhmMmYiLCJpdiI6ImI3NTI2Y2NiYjI4OGJmYzBjNWE4MzBiOTY2NDY4ZGY3MzZlOGY4ZGNjYzYzOTY4MiJ9"
+        },
+        "id": "5v1gG2A4w"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmEwOGI4ZTQwYmJmN2RmOTZmYmQxZTFjN2I5ZWI2NDI3NTAxY2UwNGZkYzg4ZjM2M2Q3OThhZmUyNzcwMzc2NGI3M2UyOWRmMjFjZGQ2NTg2MjUzOTRjOWUzZWVhMWI1OWZjMjg3NGJiNDViNjU2MzY5MWIyNWNmYjcwZmZiZTY0N2Q3YzlmZmE4MmQ4YTYxYjU0Nzk3ZDE2YTAwYTBkN2Q5MWNiNzQ1YTI5YzI0M2I1NWQ1MTI3MjgyZmM0MDljMDAyMDVkYmNhNjNhZDk0Y2U3NWY1ZDE5MGNjOTY5YmUiLCJpdiI6IjQzY2E1NTI5OWIxZjhhNmVkMGE5ZWMxNzYzMTMwZGNhNWIyNGJmYjA0MzYwNGY1YiJ9"
+        },
+        "id": "5v1gG2A4w"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "License_plate",
+            "color": "#5db300"
+        }
+    ],
+    "id": "1BK8ASgbn",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmUwZmUwYjY1ZjZlMTFmYjRiYjViMjE5ZGQ1OTI1MWIwNTU5YzFiNDAyMzBlODcxMmY2MDU5ZGJmNTc5ZWE3ODJjZDFlODI5ZWIxMzRjZGQ3MTk4OGJmMTAwNmRhOWY1IiwiaXYiOiI5ZWRmNTdhNWE0N2U1ZmQ3M2QyZTg3MDM0NzQ1YTNmZGQzNWFiZTM2M2Y0ZjU4NWYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "f7a31533a242ff661f52b0ae9fc0dd37",
+    "assets": {
+        "3b7e65412eda16ad81fe46d7c7f65c23": {
+            "format": "jpg",
+            "id": "3b7e65412eda16ad81fe46d7c7f65c23",
+            "name": "0047_03046_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0047_03046_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb9dd043b0da6b7f0f078bbd1d9f9bc0": {
+            "format": "jpg",
+            "id": "bb9dd043b0da6b7f0f078bbd1d9f9bc0",
+            "name": "0048_01264_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0048_01264_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40346b5bed9e788a9ca032af528048af": {
+            "format": "jpg",
+            "id": "40346b5bed9e788a9ca032af528048af",
+            "name": "0048_01689_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0048_01689_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6173aa9e3bed531661a9908ed5970e0e": {
+            "format": "jpg",
+            "id": "6173aa9e3bed531661a9908ed5970e0e",
+            "name": "0048_01752_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0048_01752_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19c041d73bb8e7b663cf2976160f9fd5": {
+            "format": "jpg",
+            "id": "19c041d73bb8e7b663cf2976160f9fd5",
+            "name": "0048_02005_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0048_02005_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5393e9614c23ca8a4951246346d7154c": {
+            "format": "jpg",
+            "id": "5393e9614c23ca8a4951246346d7154c",
+            "name": "0049_03047_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0049_03047_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ef4ccf28aea5a46799a5511d7bb7c00": {
+            "format": "jpg",
+            "id": "0ef4ccf28aea5a46799a5511d7bb7c00",
+            "name": "0049_04098_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0049_04098_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8a53dea70059b70ab1986f796de39ee": {
+            "format": "jpg",
+            "id": "d8a53dea70059b70ab1986f796de39ee",
+            "name": "0049_04676_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0049_04676_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a60101512d2c106a92dccd8cb67cc9e": {
+            "format": "jpg",
+            "id": "6a60101512d2c106a92dccd8cb67cc9e",
+            "name": "0050_01152_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0050_01152_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "814264124e0c0ad28735c9246c90c6a8": {
+            "format": "jpg",
+            "id": "814264124e0c0ad28735c9246c90c6a8",
+            "name": "0051_00959_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0051_00959_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24b5bfd805ab29cbb95aa00a6a07abee": {
+            "format": "jpg",
+            "id": "24b5bfd805ab29cbb95aa00a6a07abee",
+            "name": "0051_01757_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0051_01757_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a6aef92a9b12e150f9e79fb9aa818b1": {
+            "format": "jpg",
+            "id": "8a6aef92a9b12e150f9e79fb9aa818b1",
+            "name": "0052_05252_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0052_05252_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "841e099260e428e43a61c5bdd7a44291": {
+            "format": "jpg",
+            "id": "841e099260e428e43a61c5bdd7a44291",
+            "name": "0053_01877_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0053_01877_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b30ba3c284381c220eec7fe4f3a5f4c": {
+            "format": "jpg",
+            "id": "9b30ba3c284381c220eec7fe4f3a5f4c",
+            "name": "0053_04375_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0053_04375_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc7bd636d828bba82dd1f3b883268f50": {
+            "format": "jpg",
+            "id": "fc7bd636d828bba82dd1f3b883268f50",
+            "name": "0054_00940_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_00940_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ea0b2282ffe10e81a69807141cce617": {
+            "format": "jpg",
+            "id": "5ea0b2282ffe10e81a69807141cce617",
+            "name": "0054_03047_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_03047_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d858f5453a16bf5b944f3a35912c68ef": {
+            "format": "jpg",
+            "id": "d858f5453a16bf5b944f3a35912c68ef",
+            "name": "0054_04076_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_04076_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb82bad4e596713b6da863462c7a6f20": {
+            "format": "jpg",
+            "id": "cb82bad4e596713b6da863462c7a6f20",
+            "name": "0054_05482_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_05482_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c52fb270e2d1dc45a6fa1de953da8486": {
+            "format": "jpg",
+            "id": "c52fb270e2d1dc45a6fa1de953da8486",
+            "name": "0054_05705_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_05705_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "306c90d538c6629b7ed294ad49fcf316": {
+            "format": "jpg",
+            "id": "306c90d538c6629b7ed294ad49fcf316",
+            "name": "0054_06642_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_06642_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8af09fb203f6900fbe92ce27c57febcc": {
+            "format": "jpg",
+            "id": "8af09fb203f6900fbe92ce27c57febcc",
+            "name": "0054_06669_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0054_06669_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46ff97848d3428960663aaa4090100ca": {
+            "format": "jpg",
+            "id": "46ff97848d3428960663aaa4090100ca",
+            "name": "0055_01981_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0055_01981_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91e6bb85de3c765087f8597c305d7039": {
+            "format": "jpg",
+            "id": "91e6bb85de3c765087f8597c305d7039",
+            "name": "0056_01153_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0056_01153_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01d192186768a123dae663a1d9ea727f": {
+            "format": "jpg",
+            "id": "01d192186768a123dae663a1d9ea727f",
+            "name": "0056_01595_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0056_01595_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a6f1116cbe2aa26d62d626be38ec430": {
+            "format": "jpg",
+            "id": "5a6f1116cbe2aa26d62d626be38ec430",
+            "name": "0056_05671_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0056_05671_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61d7d20e85824faa905497b189a032d4": {
+            "format": "jpg",
+            "id": "61d7d20e85824faa905497b189a032d4",
+            "name": "0057_01126_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0057_01126_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b24f1aae1f80cd1fcbf12d54e012936b": {
+            "format": "jpg",
+            "id": "b24f1aae1f80cd1fcbf12d54e012936b",
+            "name": "0057_04356_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0057_04356_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1028e8c2878d5a42d3359d5c04fdb2c5": {
+            "format": "jpg",
+            "id": "1028e8c2878d5a42d3359d5c04fdb2c5",
+            "name": "0057_05184_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0057_05184_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f03789342aadcb91e0a10692035364c2": {
+            "format": "jpg",
+            "id": "f03789342aadcb91e0a10692035364c2",
+            "name": "0057_06324_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0057_06324_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8b2a691089b74d3d30b13231c8c0abb": {
+            "format": "jpg",
+            "id": "a8b2a691089b74d3d30b13231c8c0abb",
+            "name": "0058_00594_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0058_00594_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb8a252d0cad8ae5036268c5e6506711": {
+            "format": "jpg",
+            "id": "fb8a252d0cad8ae5036268c5e6506711",
+            "name": "0058_01145_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0058_01145_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d546d93dcfe25cf845e56d1f17e9563d": {
+            "format": "jpg",
+            "id": "d546d93dcfe25cf845e56d1f17e9563d",
+            "name": "0058_01153_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0058_01153_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cdeeb25b1c537f754bbbcdf7d7da8cae": {
+            "format": "jpg",
+            "id": "cdeeb25b1c537f754bbbcdf7d7da8cae",
+            "name": "0058_02021_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0058_02021_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e57a0e705523052a835665d2a6b8ae0f": {
+            "format": "jpg",
+            "id": "e57a0e705523052a835665d2a6b8ae0f",
+            "name": "0058_05613_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0058_05613_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "384f54744407b4a48f4f9c0c3947e664": {
+            "format": "jpg",
+            "id": "384f54744407b4a48f4f9c0c3947e664",
+            "name": "0059_04445_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0059_04445_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ace8c83fd226fb435393ac9b7ca1ff2a": {
+            "format": "jpg",
+            "id": "ace8c83fd226fb435393ac9b7ca1ff2a",
+            "name": "0059_04971_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0059_04971_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8405b27fb3246a921b16a81508cf8eb": {
+            "format": "jpg",
+            "id": "a8405b27fb3246a921b16a81508cf8eb",
+            "name": "0059_06835_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0059_06835_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "405d32c9323272c70d120c664a7db722": {
+            "format": "jpg",
+            "id": "405d32c9323272c70d120c664a7db722",
+            "name": "0100_00168_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0100_00168_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7ed5e624522ee2b5f6d2d2a1ac08b03": {
+            "format": "jpg",
+            "id": "f7ed5e624522ee2b5f6d2d2a1ac08b03",
+            "name": "0100_00252_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0100_00252_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b36ed12c644be501baa44d52a272310": {
+            "format": "jpg",
+            "id": "9b36ed12c644be501baa44d52a272310",
+            "name": "0100_01126_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0100_01126_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2000fd2c70c2deb6e909d49c5e384a0f": {
+            "format": "jpg",
+            "id": "2000fd2c70c2deb6e909d49c5e384a0f",
+            "name": "0100_01595_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0100_01595_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57288e91302c73f879d6ee4afe4fa7da": {
+            "format": "jpg",
+            "id": "57288e91302c73f879d6ee4afe4fa7da",
+            "name": "0100_08183_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0100_08183_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8dc04dbbfd1f8b695f7f3c79fb3f77d2": {
+            "format": "jpg",
+            "id": "8dc04dbbfd1f8b695f7f3c79fb3f77d2",
+            "name": "0101_00088_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_00088_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bca5f5b3f956fca8cc3d07e10a6732a2": {
+            "format": "jpg",
+            "id": "bca5f5b3f956fca8cc3d07e10a6732a2",
+            "name": "0101_01261_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_01261_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "352fdd3beccf13aa4f00ee81e79a0cda": {
+            "format": "jpg",
+            "id": "352fdd3beccf13aa4f00ee81e79a0cda",
+            "name": "0101_01391_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_01391_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56fe879c661d78a98d37b810b136240b": {
+            "format": "jpg",
+            "id": "56fe879c661d78a98d37b810b136240b",
+            "name": "0101_01715_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_01715_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e289d4ac4d6604d293c36215ab2c828c": {
+            "format": "jpg",
+            "id": "e289d4ac4d6604d293c36215ab2c828c",
+            "name": "0101_05739_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_05739_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3f7928b8264e66e5ba9995cfa4e7a1a": {
+            "format": "jpg",
+            "id": "a3f7928b8264e66e5ba9995cfa4e7a1a",
+            "name": "0101_07107_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0101_07107_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b48b06f4a68eacd19a239262677fca47": {
+            "format": "jpg",
+            "id": "b48b06f4a68eacd19a239262677fca47",
+            "name": "0102_00398_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_00398_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "681826a830f04c7b06f1472e6c00e81f": {
+            "format": "jpg",
+            "id": "681826a830f04c7b06f1472e6c00e81f",
+            "name": "0102_04296_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_04296_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a097d83c2c1d1c84fc7283c9b2ee1c35": {
+            "format": "jpg",
+            "id": "a097d83c2c1d1c84fc7283c9b2ee1c35",
+            "name": "0102_04565_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_04565_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4103b25ba1a26d23f004896864b939d3": {
+            "format": "jpg",
+            "id": "4103b25ba1a26d23f004896864b939d3",
+            "name": "0102_06556_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_06556_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6f87391057fde893f53cc6e2dc69a0a": {
+            "format": "jpg",
+            "id": "f6f87391057fde893f53cc6e2dc69a0a",
+            "name": "0102_07105_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_07105_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f41222bed56fc31a99feed163ed09b8": {
+            "format": "jpg",
+            "id": "6f41222bed56fc31a99feed163ed09b8",
+            "name": "0102_07390_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_07390_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81e7a2e49828e65a11b7b75cb10632ab": {
+            "format": "jpg",
+            "id": "81e7a2e49828e65a11b7b75cb10632ab",
+            "name": "0103_01261_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0103_01261_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0f5d1b70e5031d9dc4b98d5ebc44447": {
+            "format": "jpg",
+            "id": "a0f5d1b70e5031d9dc4b98d5ebc44447",
+            "name": "0103_01697_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0103_01697_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd19951a3041787a228d98408d838984": {
+            "format": "jpg",
+            "id": "fd19951a3041787a228d98408d838984",
+            "name": "0103_05539_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0103_05539_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "272d96de16685832e005b05f50ffa436": {
+            "format": "jpg",
+            "id": "272d96de16685832e005b05f50ffa436",
+            "name": "0103_06841_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0103_06841_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fec7b52c0eecd699e64f26179d3291a1": {
+            "format": "jpg",
+            "id": "fec7b52c0eecd699e64f26179d3291a1",
+            "name": "0104_00171_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0104_00171_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42bd35feea01c46d343ce3444aeb72a3": {
+            "format": "jpg",
+            "id": "42bd35feea01c46d343ce3444aeb72a3",
+            "name": "0104_08083_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0104_08083_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c13849fb61d2e61cb76604430318e779": {
+            "format": "jpg",
+            "id": "c13849fb61d2e61cb76604430318e779",
+            "name": "0105_01594_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0105_01594_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03700ac5dce21a6f3ee2229b70233e6c": {
+            "format": "jpg",
+            "id": "03700ac5dce21a6f3ee2229b70233e6c",
+            "name": "0106_00586_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0106_00586_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9082285a467d498e0e447445b25c173": {
+            "format": "jpg",
+            "id": "d9082285a467d498e0e447445b25c173",
+            "name": "0106_08292_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0106_08292_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26ec484778014dc9e9cd1c6554c12054": {
+            "format": "jpg",
+            "id": "26ec484778014dc9e9cd1c6554c12054",
+            "name": "0107_00252_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0107_00252_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "916ac376190ad7439424f173af10907a": {
+            "format": "jpg",
+            "id": "916ac376190ad7439424f173af10907a",
+            "name": "0108_00929_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0108_00929_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2958a148acc10bf308d877ecf7415e03": {
+            "format": "jpg",
+            "id": "2958a148acc10bf308d877ecf7415e03",
+            "name": "0108_00973_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0108_00973_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aaf7df19c635fe5ae20ef8d3b0db8316": {
+            "format": "jpg",
+            "id": "aaf7df19c635fe5ae20ef8d3b0db8316",
+            "name": "0108_05849_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0108_05849_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8bfbe95caba92fe8668e2ead58c9b2cc": {
+            "format": "jpg",
+            "id": "8bfbe95caba92fe8668e2ead58c9b2cc",
+            "name": "0109_01594_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0109_01594_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f48a6da3f13c3e53e92319a38bf69f50": {
+            "format": "jpg",
+            "id": "f48a6da3f13c3e53e92319a38bf69f50",
+            "name": "0109_02232_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0109_02232_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e77944aab5d2150042b2ec74f35ad7bc": {
+            "format": "jpg",
+            "id": "e77944aab5d2150042b2ec74f35ad7bc",
+            "name": "0109_04995_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0109_04995_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b880d2cb90c755b1961b41801b68c97": {
+            "format": "jpg",
+            "id": "1b880d2cb90c755b1961b41801b68c97",
+            "name": "0110_00060_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_00060_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74e2781d9de18af066836a513b3fb80c": {
+            "format": "jpg",
+            "id": "74e2781d9de18af066836a513b3fb80c",
+            "name": "0110_00252_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_00252_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5673a722ce680355260ca6cf12208dd6": {
+            "format": "jpg",
+            "id": "5673a722ce680355260ca6cf12208dd6",
+            "name": "0110_01653_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_01653_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce3bb5e8eb51b35200479e4e33c4cfed": {
+            "format": "jpg",
+            "id": "ce3bb5e8eb51b35200479e4e33c4cfed",
+            "name": "0110_01670_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_01670_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62e0f385fbdc43333b35d8760241c3c6": {
+            "format": "jpg",
+            "id": "62e0f385fbdc43333b35d8760241c3c6",
+            "name": "0110_01967_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_01967_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "699ad9e495674a356065514e7ab421b8": {
+            "format": "jpg",
+            "id": "699ad9e495674a356065514e7ab421b8",
+            "name": "0110_04515_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0110_04515_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4193e587bc28c7a7b6522ac3a8186bae": {
+            "format": "jpg",
+            "id": "4193e587bc28c7a7b6522ac3a8186bae",
+            "name": "0111_01678_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0111_01678_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "621064916b47bc44cf2a1202bfe7d25b": {
+            "format": "jpg",
+            "id": "621064916b47bc44cf2a1202bfe7d25b",
+            "name": "0111_05692_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0111_05692_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20abe0c99ba719bf3a05f31361c74c06": {
+            "format": "jpg",
+            "id": "20abe0c99ba719bf3a05f31361c74c06",
+            "name": "0112_00522_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0112_00522_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7a31533a242ff661f52b0ae9fc0dd37": {
+            "format": "jpg",
+            "id": "f7a31533a242ff661f52b0ae9fc0dd37",
+            "name": "0112_01081_b.jpg",
+            "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0112_01081_b.jpg",
+            "size": {
+                "width": 472,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

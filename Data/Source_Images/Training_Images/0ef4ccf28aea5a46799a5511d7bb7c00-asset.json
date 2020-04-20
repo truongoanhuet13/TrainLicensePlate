@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0ef4ccf28aea5a46799a5511d7bb7c00",
+        "name": "0049_04098_b.jpg",
+        "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0049_04098_b.jpg",
+        "size": {
+            "width": 472,
+            "height": 303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "COKawncvd",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 71.48701298701299,
+                "width": 76.42529534398888,
+                "left": 252.95378735232802,
+                "top": 111.16558441558442
+            },
+            "points": [
+                {
+                    "x": 252.95378735232802,
+                    "y": 111.16558441558442
+                },
+                {
+                    "x": 329.3790826963169,
+                    "y": 111.16558441558442
+                },
+                {
+                    "x": 329.3790826963169,
+                    "y": 182.65259740259742
+                },
+                {
+                    "x": 252.95378735232802,
+                    "y": 182.65259740259742
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

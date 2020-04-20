@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "681826a830f04c7b06f1472e6c00e81f",
+        "name": "0102_04296_b.jpg",
+        "path": "file:C:/Users/truon/OneDrive/Desktop/TrainLicensePlate/Data/Source_Images/Training_Images/0102_04296_b.jpg",
+        "size": {
+            "width": 472,
+            "height": 303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "WzX13ulX3",
+            "type": "RECTANGLE",
+            "tags": [
+                "License_plate"
+            ],
+            "boundingBox": {
+                "height": 74.76623376623377,
+                "width": 83.9694232105629,
+                "left": 151.272063933287,
+                "top": 50.172077922077925
+            },
+            "points": [
+                {
+                    "x": 151.272063933287,
+                    "y": 50.172077922077925
+                },
+                {
+                    "x": 235.2414871438499,
+                    "y": 50.172077922077925
+                },
+                {
+                    "x": 235.2414871438499,
+                    "y": 124.9383116883117
+                },
+                {
+                    "x": 151.272063933287,
+                    "y": 124.9383116883117
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
